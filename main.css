@@ -2,9 +2,31 @@ body{
   background:pink;
   font-family: arial;
 }
-h1,h2,li{
-  color:#555;
+
+header{
+  background: blue;
+  color: white;
+
+
+
 }
 a{
-  color:orange;
+  color:green;
+}
+p{
+  background: orange;
+  color:white;
+  padding: 50px 50px;
+  font-size: 5;
+
+}
+
+
+ li{
+  list-style-type: none;
+  display: inline-block;
+  background: orange;
+  color: white;
+  padding: 5px 15px;
+  
 }
