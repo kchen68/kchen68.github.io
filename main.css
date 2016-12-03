@@ -1,0 +1,10 @@
+body{
+  background:pink;
+  font-family: arial;
+}
+h1,h2,li{
+  color:#555;
+}
+a{
+  color:green;
+}
