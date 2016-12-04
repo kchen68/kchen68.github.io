@@ -22,9 +22,19 @@ div{
  li{
   list-style-type: none;
   display: inline-block;
-  background:lightblue;
+  background:#D1FEFC;
   color: white;
-  padding: 20px 60px;
+  padding: 15px 45px;
   font-weight: bold;
+
+}
+header{
+  background-image: url("pics/bridge.jpg");
+}
+h1{
+font-family: "Brush Script MT", cursive;
+	font-style: normal;
+	font-variant: normal;
+
 
 }
